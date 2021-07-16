@@ -1,0 +1,13 @@
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.exe
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.deps.json
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.runtimeconfig.json
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.runtimeconfig.dev.json
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.dll
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.pdb
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.csprojAssemblyReference.cache
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.AssemblyInfoInputs.cache
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.AssemblyInfo.cs
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.dll
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.pdb
+C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.genruntimeconfig.cache
