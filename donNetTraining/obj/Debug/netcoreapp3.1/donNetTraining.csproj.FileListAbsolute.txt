@@ -11,3 +11,16 @@ C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.
 C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.dll
 C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.pdb
 C:\Users\Sammy\source\repos\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.genruntimeconfig.cache
+D:\C# Workspace\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.exe
+D:\C# Workspace\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.deps.json
+D:\C# Workspace\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.runtimeconfig.json
+D:\C# Workspace\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.runtimeconfig.dev.json
+D:\C# Workspace\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.dll
+D:\C# Workspace\donNetTraining\donNetTraining\bin\Debug\netcoreapp3.1\donNetTraining.pdb
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.csprojAssemblyReference.cache
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.AssemblyInfoInputs.cache
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.AssemblyInfo.cs
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.csproj.CoreCompileInputs.cache
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.dll
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.pdb
+D:\C# Workspace\donNetTraining\donNetTraining\obj\Debug\netcoreapp3.1\donNetTraining.genruntimeconfig.cache
